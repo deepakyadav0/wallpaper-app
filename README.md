@@ -1,7 +1,7 @@
 # image_et
 ## set images as an wallpaper 
 A new Flutter project.
-
+this is good app but it has less number of wallpapper image. i suggest it's developer to get some new collection of images at https://www.shutterstock.com/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-utkarsh's commit
+
